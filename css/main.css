@@ -95,7 +95,8 @@ img {
 #news {
 			list-style:none;
 			text-align:left;
-	padding: 0;
+	margin: 0;
+	padding: 15;
 		}
 
 #news li {
