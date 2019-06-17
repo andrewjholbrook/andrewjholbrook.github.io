@@ -1,1 +1,1 @@
-# Web page of Andrew J Holbrook
+# Web page of Andrew J. Holbrook
