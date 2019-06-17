@@ -36,6 +36,11 @@ p {
     clear: both;
     display: block;
 }
+html {
+  font-family: 'Open Sans', Times, serif;
+  font-size: 20px;
+  background-color: #F6F6F6;
+}
 .title {
       font-size: 1.5em;
       margin:0;
