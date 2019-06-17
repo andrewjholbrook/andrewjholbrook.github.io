@@ -28,6 +28,11 @@ p {
     line-height: 1.4em;
     color: #333;
 }
+.row:after {
+    content: "";
+    clear: both;
+    display: block;
+}
 .title {
       margin:0;
       padding: 0 0 0 15px;
