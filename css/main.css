@@ -82,3 +82,13 @@ img {
 .col-10 {width: 100%;}
 .col-11 {width: 100%;}
 .col-12 {width: 100%;}
+
+#news {
+			list-style:none;
+			text-align:left;
+      padding: 0 0 10 0px;
+		}
+
+#news li {
+  padding: 0 0 10 0px;
+}
