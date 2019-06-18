@@ -16,6 +16,7 @@ nav ul li, footer ul li {
     box-sizing: border-box;
 }
 a {
+    color: #006400;
     text-decoration: none;
 }
 a:hover {
