@@ -3,6 +3,10 @@ layout: default
 title: Curriculum vitae of Andrew Holbrook
 ---
  <h3>Curriculum vitae of Andrew Holbrook:</h3>
+var options = {
+   width: "20rem",
+   height: "20rem"
+};
 <div id="cv"></div>
 <script src="/js/pdfobject.js"></script>
-<script>PDFObject.embed("CV.pdf", "#cv");</script>
+<script>PDFObject.embed("CV.pdf", "#cv", options);</script>
