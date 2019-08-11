@@ -107,6 +107,16 @@ img {
   margin: 10px 0;
 }
 
+#preprints ul {
+	
+}
+
+#preprints li {
+    padding: 0 0 10 0px;
+    margin: 10px 0;
+}
+
+
 #pubs ol {
 
 }
